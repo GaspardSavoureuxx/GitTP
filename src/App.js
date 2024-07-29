@@ -7,6 +7,9 @@ function App() {
       <header>
         <p>Mon header</p>
       </header>
+      <footer>
+        <p>Mon footer</p>
+        </footer>
     </div>
   );
 }
