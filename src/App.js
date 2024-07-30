@@ -9,6 +9,7 @@ function App() {
         <p>Mon header</p>
       </header>
       <Title/>
+      <p>Mon paragraphe</p>
       <footer>
         <p>Mon footer</p>
         </footer>
